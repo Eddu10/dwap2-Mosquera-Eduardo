@@ -1,17 +1,24 @@
 {
   "name": "examen_parcial_2",
   "version": "1.0.0",
-  "description": "Examen",
+  "description": "Examen Eduardo Mosquera",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eddu10/dwap2-Mosquera-Eduardo.git"
+  },
   "keywords": [
-    "web",
-    "server"
+    "Examen"
   ],
-  "author": "Eduardo Mosquera ESPE-L",
+  "author": "Eduardo Mosquera",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eddu10/dwap2-Mosquera-Eduardo/issues"
+  },
+  "homepage": "https://github.com/Eddu10/dwap2-Mosquera-Eduardo#readme",
   "dependencies": {
     "express": "^4.17.1",
     "hbs": "^4.1.2"

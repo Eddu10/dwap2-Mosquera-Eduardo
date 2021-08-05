@@ -4,6 +4,13 @@
         "url":"/Imagenes/jl.jpg",
         "precio2d":"$5.50",
         "precio3d":"$8.00"
+    },
+
+    {
+        "nombre":"Godzilla vs Kong",
+        "url":"/Imagenes/GvK.jpg",
+        "precio2d":"$5.50",
+        "precio3d":"$8.00"
     }
     
 ]
